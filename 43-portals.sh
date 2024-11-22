@@ -15,7 +15,7 @@ echo "> Setup the plugin..."
 touch "$temp_dir/temp_file"
 cat <<EOF > "$temp_dir/temp_file"
 config.plugins.MultiStalkerPro.adult=True
-config.plugins.MultiStalkerPro.color=red
+config.plugins.MultiStalkerPro.color=#00ff0000
 config.plugins.MultiStalkerPro.extplayer_subtitle_font_color=#00ffff00
 config.plugins.MultiStalkerPro.extplayer_subtitle_pos=86
 config.plugins.MultiStalkerPro.host=http://pro.netmos.ovh:7355/c/
