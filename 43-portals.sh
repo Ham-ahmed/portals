@@ -15,7 +15,7 @@ echo "> Setup the plugin..."
 touch "$temp_dir/temp_file"
 cat <<EOF > "$temp_dir/temp_file"
 config.plugins.MultiStalkerPro.adult=True
-config.plugins.MultiStalkerPro.color=mspro_gradient_2
+config.plugins.MultiStalkerPro.color=mspro gradient 2
 config.plugins.MultiStalkerPro.extplayer_subtitle_font_color=#00ffff00
 config.plugins.MultiStalkerPro.extplayer_subtitle_pos=86
 config.plugins.MultiStalkerPro.host=http://pro.netmos.ovh:7355/c/
@@ -44,8 +44,21 @@ if [ -f /etc/apt/apt.conf ]; then
     sleep 2
     systemctl restart enigma2
 else
-    sleep 2
-    killall -9 enigma2
+   echo "" 
+echo "" 
+echo "**********************************************************
+echo "#                   INSTALLED SUCCESSFULLY              #"
+echo "*                       ON - Panel                      *"
+echo "*                Enigma2 restart is required            *"
+echo "**********************************************************"
+echo "               UPLOADED BY  >>>>   HAMDY_AHMED           "
+sleep 4;
+	echo '======================================================'
+############################################                                                                                                                  
+echo ". >>>>         RESTARING         <<<<"
+echo "**********************************************************"
+wait
+killall -9 enigma2
 fi
 else
 echo "> $plugin-$version package installation failed"
