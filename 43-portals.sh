@@ -11,11 +11,9 @@ echo "> installation of portals files  finished"
 sleep 3
 
 echo "> Setup the plugin..."
-# Configure ajpanel_settings
 touch "$temp_dir/temp_file"
 cat <<EOF > "$temp_dir/temp_file"
 config.plugins.MultiStalkerPro.adult=True
-config.plugins.MultiStalkerPro.color=#00C62128
 config.plugins.MultiStalkerPro.extplayer_subtitle_font_color=#00ffff00
 config.plugins.MultiStalkerPro.extplayer_subtitle_pos=86
 config.plugins.MultiStalkerPro.host=http://pro.netmos.ovh:7355/c/
@@ -44,19 +42,19 @@ if [ -f /etc/apt/apt.conf ]; then
     sleep 2
     systemctl restart enigma2
 else
-   echo "" 
+echo "" 
 echo "" 
 echo "**********************************************************
 echo "#                   INSTALLED SUCCESSFULLY              #"
 echo "*                       ON - Panel                      *"
 echo "*                Enigma2 restart is required            *"
-echo "**********************************************************"
+echo "*********************************************************"
 echo "               UPLOADED BY  >>>>   HAMDY_AHMED           "
 sleep 4;
-	echo '======================================================'
-############################################                                                                                                                  
-echo ". >>>>         RESTARING         <<<<"
-echo "**********************************************************"
+echo '========================================================='
+################################################################
+echo ">>>>                   RESTARING                     <<<<"
+echo "*********************************************************"
 wait
 killall -9 enigma2
 fi
