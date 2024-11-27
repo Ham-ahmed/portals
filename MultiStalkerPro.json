@@ -19,12 +19,17 @@
         "host": "http://hd21hd.xyz:8080/",
         "username": "Salihdeveciturkokulu",
         "password": "5aOfWbAi0g",
-        "type": 2
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1656408419,
+        "end_date": 1751198226,
+        "max_connections": 1
     },
     {
         "host": "http://1.germany4k.xyz:8080/",
         "mac": "00:1A:79:C1:FF:0B",
-        "type": 1
+        "type": 1,
+        "entryPoint": "portal.php"
     },
     {
         "host": "http://cmjl.online:8080/",
@@ -41,7 +46,11 @@
         "host": "http://nettv88.net:8080/",
         "username": "qQkDTxdQGn",
         "password": "ns81NZeRAD",
-        "type": 2
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1677239808,
+        "end_date": 1740405408,
+        "max_connections": 1
     },
     {
         "host": "http://dost42.com:4512/",
@@ -257,6 +266,440 @@
         "host": "http://neptunpro24.xyz:8080/",
         "username": "sunderland31",
         "password": "GT6xL8bBj7",
+        "type": 2
+    },
+    {
+        "host": "http://600600.org:8080/",
+        "mac": "00:1A:79:B3:0B:BD",
+        "type": 1
+    },
+    {
+        "host": "http://llllllllliiiiiiiiiiiiii.funtogether.xyz:8080/",
+        "mac": "00:1A:79:5A:9F:9D",
+        "type": 1
+    },
+    {
+        "host": "http://mutant.arrox.top:80/",
+        "mac": "00:1A:79:93:A2:5E",
+        "type": 1
+    },
+    {
+        "host": "http://tv1.darktv.eu:80/",
+        "mac": "00:1A:79:B2:1F:1A",
+        "type": 1
+    },
+    {
+        "host": "http://nevjfhb.mtop5.xyz",
+        "username": "2249871453",
+        "password": "1991220000",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1725324586,
+        "end_date": 1756860586,
+        "max_connections": 1
+    },
+    {
+        "host": "http://mol-2.com:8080/",
+        "mac": "00:1A:79:BF:BD:F8",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "Host: http://stalker.ugoiptv.com/",
+        "mac": "00:1A:79:AC:86:27",
+        "type": 1
+    },
+    {
+        "host": "http://fast-smartplus.com:80/",
+        "username": "17SS3Y1",
+        "password": "8CVYT58",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1729357828,
+        "end_date": 1763572228,
+        "max_connections": 1
+    },
+    {
+        "host": "http://activefrance.net:80/",
+        "username": "755864C7A2D3",
+        "password": "8762D05C8774",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1703099025,
+        "end_date": 1734721425,
+        "max_connections": 1
+    },
+    {
+        "host": "http://sawaiptv.vip:80/",
+        "username": "ahmedmagdy",
+        "password": "01211573156am",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1710942267,
+        "end_date": 1742521467,
+        "max_connections": 1
+    },
+    {
+        "host": "http://34mix.com:8080/",
+        "username": "bB0SE0XxgmpU",
+        "password": "rePk46rpJYnj",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1711720868,
+        "end_date": 1743256868,
+        "max_connections": 1
+    },
+    {
+        "host": "http://star44.xyz:80/",
+        "username": "148678A6604222",
+        "password": "300CC27F894F",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1697186356,
+        "end_date": 1734182870,
+        "max_connections": 1
+    },
+    {
+        "host": "http://160.19.94.16:8080/",
+        "username": "Vip_serNeu",
+        "password": "XNkMKxLck2Aw",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1723049787,
+        "max_connections": 250
+    },
+    {
+        "host": "http://monstertv.site:8080/",
+        "username": "mjc201123@gmail.com",
+        "password": "y6hwL6i7n9",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1680504754,
+        "end_date": 1733154692,
+        "max_connections": 1
+    },
+    {
+        "host": "http://defaultgen.com:3050/",
+        "username": "patrick99",
+        "password": "GL7ingU89N",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1649808583,
+        "end_date": 1739488155,
+        "max_connections": 1
+    },
+    {
+        "host": "http://xxip25.top:8080/",
+        "username": "erikamitchell31@gmail.com",
+        "password": "rNGPmRSYSP",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1686181379,
+        "end_date": 1749512579,
+        "max_connections": 3
+    },
+    {
+        "host": "http://yesimes.oknirvana.club:8880/",
+        "username": "19294624577",
+        "password": "access2023",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1705562151,
+        "end_date": 1737853127,
+        "max_connections": 1
+    },
+    {
+        "host": "http://xp2.hostinggonemoreso10.com:2082/",
+        "username": "Tourobox3-bjOLa9knOC",
+        "password": "mykNNYkAAs",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1668297898,
+        "end_date": 2007345546,
+        "max_connections": 4
+    },
+    {
+        "host": "http://vo01.mohdtv.com:8880/",
+        "username": "smarttv585cde0074ec",
+        "password": "42005744",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1708510442,
+        "end_date": 1736752400,
+        "max_connections": 1
+    },
+    {
+        "host": "http://ultrapremium.cloud:8080/",
+        "username": "42gabe92da76fu38",
+        "password": "47wuma84duwe57",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1723553932,
+        "end_date": 1755089932,
+        "max_connections": 3
+    },
+    {
+        "host": "http://v1sorin.ddns.net:8008/",
+        "username": "Florin@Parjol",
+        "password": "mT5xpF7yhd",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1693429387,
+        "end_date": 1732979018,
+        "max_connections": 3
+    },
+    {
+        "host": "http://tvmate.icu:8080/",
+        "username": "7800481",
+        "password": "6074514",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1700110800,
+        "end_date": 1734325200,
+        "max_connections": 3
+    },
+    {
+        "host": "http://ua-iptv.com:8080/",
+        "username": "jopelligrino@gmail.com",
+        "password": "q9Evde8E25gM",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1695949679,
+        "end_date": 1737210215,
+        "max_connections": 3
+    },
+    {
+        "host": "http://tv.pure-onetv.com:80/",
+        "username": "vip2024020",
+        "password": "yv22022024",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1708617585,
+        "end_date": 1740931618,
+        "max_connections": 1
+    },
+    {
+        "host": "http://tv.zapping.life:8080/",
+        "username": "walfreyajaira62",
+        "password": "MTQYsweHye",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1632533857,
+        "end_date": 1733510162,
+        "max_connections": 3
+    },
+    {
+        "host": "http://tv2watch.icu:8080",
+        "username": "4KCwCN",
+        "password": "506843",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1640754000,
+        "end_date": 1735448400,
+        "max_connections": 5
+    },
+    {
+        "host": "http://touroboxv4.brtv.top:80/",
+        "username": "fd23d32",
+        "password": "102430R",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1719874112,
+        "end_date": 1733843430,
+        "max_connections": 1
+    },
+    {
+        "host": "http://streamprostk.com:8080/",
+        "username": "JuanPVargas13",
+        "password": "UNsJJryzfj",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1615647435,
+        "end_date": 1744564450,
+        "max_connections": 2
+    },
+    {
+        "host": "http://supersonictv.live:8080/",
+        "username": "329474",
+        "password": "903964",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1656561600,
+        "end_date": 1733374800,
+        "max_connections": 5
+    },
+    {
+        "host": "http://tkosportz.live:25461/",
+        "username": "dave",
+        "password": "steelers",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1694107384,
+        "end_date": 1733773283,
+        "max_connections": 2
+    },
+    {
+        "host": "http://srv.maxptv.net:8080/",
+        "username": "LUI010",
+        "password": "0C8W0RfJRn",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1678539043,
+        "end_date": 1741697443,
+        "max_connections": 1
+    },
+    {
+        "host": "http://starfamily.vip:8080/",
+        "username": "Luciano",
+        "password": "Luciano",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1727971684,
+        "max_connections": 3
+    },
+    {
+        "host": "http://smart4k.org:2082/",
+        "username": "MuhammedAssi",
+        "password": "ZK2wSx4WXFZu",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1662206380,
+        "end_date": 1736175662,
+        "max_connections": 1
+    },
+    {
+        "host": "http://smart.sisobra66.win:80/",
+        "username": "cyber177",
+        "password": "38UDKAVeuj",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1709910207,
+        "end_date": 1741456794,
+        "max_connections": 3
+    },
+    {
+        "host": "http://redima.pro:8880/",
+        "username": "velasco709",
+        "password": "velasco709",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1694206117,
+        "max_connections": 3
+    },
+    {
+        "host": "http://rolextv.asia:80/",
+        "username": "12345",
+        "password": "54321",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1715368656,
+        "end_date": 1746947856,
+        "max_connections": 1
+    },
+    {
+        "host": "http://rosuv1.myddns.me:8008/",
+        "username": "Bercea_Radu",
+        "password": "mnGCyZT",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1639078766,
+        "end_date": 1732997408,
+        "max_connections": 3
+    },
+    {
+        "host": "http://royaltv.live:25461/",
+        "username": "G3602",
+        "password": "4699",
+        "type": 2
+    },
+    {
+        "host": "http://proeuropa.in:8008/",
+        "username": "BotocDaniela",
+        "password": "bTb9f9HD",
+        "type": 2
+    },
+    {
+        "host": "http://proeuropatv.xyz:8080/",
+        "username": "Daniel@Manole",
+        "password": "WcQUx4hM78",
+        "type": 2
+    },
+    {
+        "host": "http://programetv.dynu.net:8008/",
+        "username": "vasilesain",
+        "password": "sain",
+        "type": 2
+    },
+    {
+        "host": "http://pt.chape-shop.com:8080/",
+        "username": "pergamon48",
+        "password": "ct4gSEyGj5",
+        "type": 2
+    },
+    {
+        "host": "http://pushplay.online:80/",
+        "username": "7T7rAAWBHUrJu82g",
+        "password": "jCFa2jqd",
+        "type": 2
+    },
+    {
+        "host": "http://playtv44.com:8080/",
+        "username": "535503",
+        "password": "123456",
+        "type": 2
+    },
+    {
+        "host": "http://portal-iptv.net:8080/",
+        "username": "117599598948",
+        "password": "117599598948",
+        "type": 2
+    },
+    {
+        "host": "http://premiumvipzone.com:8080/",
+        "username": "raul_cristian_spoiala",
+        "password": "m3WTR0HoAj",
+        "type": 2
+    },
+    {
+        "host": "http://play.steeltv.org:8080/",
+        "username": "Josep123",
+        "password": "AJVHU",
+        "type": 2
+    },
+    {
+        "host": "http://playtv44.com:8080/",
+        "username": "068904",
+        "password": "123456",
+        "type": 2
+    },
+    {
+        "host": "http://p2ptv.site:80/",
+        "username": "Carlasm2",
+        "password": "1837747484838",
+        "type": 2
+    },
+    {
+        "host": "http://olix.cc:8000/",
+        "username": "Enescirak",
+        "password": "irXT7DFWbZ",
+        "type": 2
+    },
+    {
+        "host": "http://mohdtv.com:8880/",
+        "username": "ALLChannels3e2d5ca862ed",
+        "password": "50655985",
+        "type": 2
+    },
+    {
+        "host": "http://ma.swords.live:2052/",
+        "username": "938864896769",
+        "password": "023529035686",
+        "type": 2
+    },
+    {
+        "host": "http://life69.us:80/",
+        "username": "1062342831",
+        "password": "1841643894",
         "type": 2
     }
 ]
