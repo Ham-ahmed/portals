@@ -37,7 +37,7 @@ rm -rf "$temp_dir/temp_file" >/dev/null 2>&1
 sleep 2
 echo "> Setup done..., Please wait enigma2 restarting..."
 sleep 1
-echo "> Uploaded By ElieSat"
+echo "> Uploaded 27112024"
 
 # Restart Enigma2 service or kill enigma2 based on the system
 if [ -f /etc/apt/apt.conf ]; then
